@@ -2,10 +2,7 @@
 
 | № | Проект | Задача | Навыки |
 |:---------:| :--------------------------: | :---------------------------- |:--------------------------------|
-| 1  | [A\A\B тест в стартапе](https://github.com/belukhin24/My_projets/tree/main/A%5CA%5CB%20тест%20в%20стартапе) | 1. AB_testing
-2. Dataset analysis
-3. ARPU calculation
-4. Bootstrap method
+| 1  | [A\A\B тест в стартапе](https://github.com/belukhin24/My_projets/tree/main/A%5CA%5CB%20тест%20в%20стартапе) | 1. AB_testing 2. Dataset analysis 3. ARPU calculation 4. Bootstrap method
 5. Data generation for query test via SQL
 6. Automatic file upload via Python  | А/B-тестирование, Python, Pandas, Matplotlib, Seaborn, событийная аналитика, продуктовые метрики, Plotly, проверка статистических гипотез, визуализация данных |
 | 2 |[A\B тест](https://github.com/belukhin24/My_projets/tree/main/A%5CB%20тест)| Используя данные интернет-магазина приоритезировать гипотезы, произвести оценку результатов A/B-тестирования различными методами  | Python, Pandas, Matplotlib, SciPy, A/B-тестирование, проверка статистических гипотез|
